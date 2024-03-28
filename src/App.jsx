@@ -1,4 +1,4 @@
-import InteractiveRating from './assets/components/InteractiveRating'
+import InteractiveRating from './components/InteractiveRating'
 
 const App = () => {
   return (
