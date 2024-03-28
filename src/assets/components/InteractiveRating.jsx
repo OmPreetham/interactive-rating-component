@@ -49,7 +49,7 @@ const InteractiveRating = () => {
   function renderSubmittedContent() {
     return (
       <div className="submit-layout-flex">
-        <div>
+        <div className="image-wrapper">
           <img
             src="/images/illustration-thank-you.svg"
             alt="Thank You Illustration"

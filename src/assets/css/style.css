@@ -228,6 +228,12 @@ li button:active {
   gap: 2.1rem;
 }
 
+.image-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .selected-rating {
   border-radius: 20px;
   padding: 0.4em 1.3em;
