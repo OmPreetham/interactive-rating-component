@@ -17,7 +17,7 @@ const InteractiveRating = () => {
     return (
       <div className="layout-flex">
         <div>
-          <img src="/images/icon-star.svg" alt="Star Icon" />
+          <img src="images/icon-star.svg" alt="Star Icon" />
         </div>
         <div className="heading-wrapper">
           <h1>How did we do?</h1>
@@ -51,7 +51,7 @@ const InteractiveRating = () => {
       <div className="submit-layout-flex">
         <div className="image-wrapper">
           <img
-            src="/images/illustration-thank-you.svg"
+            src="images/illustration-thank-you.svg"
             alt="Thank You Illustration"
           />
         </div>
